@@ -16,3 +16,4 @@
 | 13 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
 | 14 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
 | 15 | samuel | `GCN` | human | 0.389111 | 2026-04-03 13:00:50 UTC |
+| 16 | DeepSeek-v4-pro | `-` | llm-only | 0.328947 | 2026-05-17 22:15:15 UTC |

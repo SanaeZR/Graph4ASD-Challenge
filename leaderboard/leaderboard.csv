@@ -14,3 +14,4 @@ KEMPEGUY,2026-04-09 20:54:30 UTC,Peguy,gcn_v1,human,2-layer GCN with adjacency a
 El-Ikram,2026-04-11 12:17:32 UTC,El-Ikram,run_2,human+llm,GIN,0.626877,0.627451,0.652174,0.576923
 TugaAhmed,2026-04-14 18:58:50 UTC,Tuga Yousif,run1,human,GCNConv,0.441385,0.457516,0.475248,0.615385
 Murad-Hossen,2026-05-16 06:58:51 UTC,LLM_Claude_Opus_47,run_claude_47,llm-only,GraphSAGE,0.607826,0.607843,0.621622,0.589744
+randomuser1194,2026-05-17 22:15:15 UTC,DeepSeek-v4-pro,run_01,llm-only,-,0.328947,0.490196,0.0,0.0
