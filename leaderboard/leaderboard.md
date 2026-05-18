@@ -11,10 +11,11 @@
 | 8 | emmanuel_owusu | `GraphLevelSAGE + AttentionalAggregation` | human+llm | 0.558177 | 2026-04-04 13:42:03 UTC |
 | 9 | Peguy | `2-layer GCN with adjacency as node features` | human | 0.527949 | 2026-04-09 20:54:30 UTC |
 | 10 | LLM_Gemini_25_Pro | `GCN` | llm-only | 0.487872 | 2026-05-18 21:01:41 UTC |
-| 11 | nour maj | `GAT` | human | 0.449074 | 2026-04-04 16:48:01 UTC |
-| 12 | Tuga Yousif | `GCNConv` | human | 0.441385 | 2026-04-14 18:58:50 UTC |
-| 13 | Tasneem Selim | `GCN` | human | 0.435957 | 2026-03-13 08:18:42 UTC |
-| 14 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
-| 15 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
-| 16 | samuel | `GCN` | human | 0.389111 | 2026-04-03 13:00:50 UTC |
-| 17 | DeepSeek-v4-pro | `-` | llm-only | 0.328947 | 2026-05-17 22:15:15 UTC |
+| 10 | LLM_Gemini_25_Pro | `GCN` | llm-only | 0.487872 | 2026-05-18 21:05:44 UTC |
+| 12 | nour maj | `GAT` | human | 0.449074 | 2026-04-04 16:48:01 UTC |
+| 13 | Tuga Yousif | `GCNConv` | human | 0.441385 | 2026-04-14 18:58:50 UTC |
+| 14 | Tasneem Selim | `GCN` | human | 0.435957 | 2026-03-13 08:18:42 UTC |
+| 15 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
+| 16 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
+| 17 | samuel | `GCN` | human | 0.389111 | 2026-04-03 13:00:50 UTC |
+| 18 | DeepSeek-v4-pro | `-` | llm-only | 0.328947 | 2026-05-17 22:15:15 UTC |
